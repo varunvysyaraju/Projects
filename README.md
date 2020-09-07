@@ -15,3 +15,9 @@ Userform to allow user to add or delete new categories to data table
 
 Searching through the data with the option of replacing those items
 
+3. Geography Toolbox
+
+Userform to determines distance between two cities using latitude (lat) and lonitude (lon)
+
+User can select from combo box to select states
+
